@@ -1,1 +1,1 @@
-This is a arras.io project that i've joined. this works like oblivion(improved version of neph's) template. you can check for arrasfrontsiege-client and arrasrooms-accounts. (The dev team was retarded so they renamed their shit 2 times)
+This is a arras.io project that i've joined. This works like oblivion(improved version of neph's) template. You can check for arrasfrontsiege-client and arrasrooms-accounts. (The dev team was retarded so they renamed their shit 2 times)
